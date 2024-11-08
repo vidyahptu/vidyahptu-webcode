@@ -1,0 +1,17 @@
+#navcol-1 {
+  margin-left: 40%;
+  font-size: 20px;
+}
+
+.navbar-brand {
+}
+
+.navbar-nav {
+  margin-left: 20px;
+  text-align: right;
+}
+
+.nav-item {
+  /*margin-left: 20px;*/
+}
+
